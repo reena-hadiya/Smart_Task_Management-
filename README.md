@@ -105,13 +105,3 @@ A premium, full-stack application for managing tasks with a modern UI, featuring
 
 ---
 
-## ☁️ Deployment
-
-- **Backend**: Recommended for [Render](https://render.com) or [Railway](https://railway.app).
-- **Frontend**: Recommended for [Netlify](https://netlify.com) or [Vercel](https://vercel.com).
-- **Database**: Use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) for a managed cloud database.
-
----
-
-## 📄 License
-MIT License - Feel free to use this for your own projects!
